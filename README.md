@@ -1,6 +1,6 @@
-# 👨‍💻 Hussain Ali | Telecommunications Engineer
+# 👨‍💻 Hussein Ali | Telecommunications Engineer
 
-Welcome to my GitHub space! I'm **Hussain Ali**, a Telecommunications Engineer with a growing passion for the intersection between network engineering and Artificial Intelligence. My goal is to leverage the power of **Python** and **Machine Learning (ML)** to solve complex telecom challenges and optimize network performance.
+Welcome to my GitHub space! I'm **Hussein Ali**, a Telecommunications Engineer with a growing passion for the intersection between network engineering and Artificial Intelligence. My goal is to leverage the power of **Python** and **Machine Learning (ML)** to solve complex telecom challenges and optimize network performance.
 
 ---
 
